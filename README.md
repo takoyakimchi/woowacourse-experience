@@ -21,7 +21,18 @@
 | 😴 개발자 비상근무 | [java-oncall-6](https://github.com/takoyakimchi/java-oncall-6-takoyakimchi) |
 
 
-## 레벨1: 단위 테스트, TDD, Clean Code, OOP, DB
+# 레벨1: 단위 테스트, TDD, Clean Code, OOP, DB
+
+| 과정명 | Pull Request |
+|:-:|:-:|
+| 🏎️ 자동차 경주 - 단위 테스트 | [1단계 PR](https://github.com/woowacourse/java-racingcar/pull/701) |
+|  | [2단계 PR](https://github.com/woowacourse/java-racingcar/pull/820) |
+| 🪜 사다리 타기 - TDD | [1단계 PR](https://github.com/woowacourse/java-ladder/pull/317) |
+|  | [2단계 PR](https://github.com/woowacourse/java-ladder/pull/387) |
+| ♠️ 블랙잭 - Clean Code | [1단계 PR](https://github.com/woowacourse/java-blackjack/pull/633) |
+|  | [2단계 PR](https://github.com/woowacourse/java-blackjack/pull/731) |
+| ♟️ 체스 - OOP, DB | [1-2단계 PR](https://github.com/woowacourse/java-chess/pull/658) |
+|  | [3-4단계 PR](https://github.com/woowacourse/java-chess/pull/764) |
 
 ## 레벨2: 웹 애플리케이션 개발, Spring, JPA, 외부 API 연동
 
