@@ -40,9 +40,31 @@
 
 **진행 기간** 2024-04-16 ~ 2024-06-14
 
+| 과정명 | Pull Request |
+|:-:|:-:|
+| 🔐 방탈출 예약 관리 | [1-3단계 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/26) |
+|  | [4-9단계 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/105) |
+|  | [10단계 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/186) |
+| 📋 방탈출 사용자 예약 | [0-3단계 PR](https://github.com/woowacourse/spring-roomescape-member/pull/3) |
+|  | [4-6단계 PR](https://github.com/woowacourse/spring-roomescape-member/pull/123) |
+| 🕒 방탈출 예약 대기 | [1-2단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/3) |
+|  | [3-4단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/96) |
+| 💵 방탈출 결제/배포 | [1단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/10) |
+|  | [2-4단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/113) |
+
 ## 레벨3: 팀 프로젝트
 
 **진행 기간** 2024-07-02 ~ 2024-08-23
+
+### 🐶 반갑개
+- 강아지 사회화를 돕는 모바일 애플리케이션을 기획 및 개발하고 있습니다.
+- 구성원: 안드로이드 4명 + 백엔드 4명, 총 8명
+- [작성한 PR 목록](https://github.com/woowacourse-teams/2024-friendogly/pulls?page=2&q=author%3Atakoyakimchi)
+- [작성한 코드 리뷰 목록](https://github.com/woowacourse-teams/2024-friendogly/pulls?q=reviewed-by%3Atakoyakimchi+-author%3Atakoyakimchi)
+- 주요 업무
+  - 웹소켓과 STOMP 프로토콜을 활용한 채팅 기능 개발
+  - 초기 도메인 개발
+  - 기타 버그 수정 및 유지보수
 
 ## 레벨4: 팀 프로젝트 + Tomcat, MVC, JDBC 라이브러리
 
