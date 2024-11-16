@@ -5,6 +5,9 @@
 
 **진행 기간** 2023-10-19 ~ 2023-11-15
 
+- 우아한테크코스의 1차 선발 과정입니다.
+- 자바의 기본 문법, 객체지향적 설계, 클래스 및 메서드 분리, `Optional`, `stream` 등 중급 문법을 스스로 학습하였습니다.
+
 |주차|과정명|Repository|Pull Request|
 |:-:|:-:|:-:|:-:|
 | 1주차 | ⚾ 숫자 야구 | [java-baseball-6](https://github.com/takoyakimchi/java-baseball-6/tree/takoyakimchi) | [PR](https://github.com/woowacourse-precourse/java-baseball-6/pull/2053)|
@@ -16,6 +19,8 @@
 
 **진행 날짜** 2023-12-16
 
+- 우아한테크코스의 최종 선발 과정입니다.
+
 | 과정명 | Repository |
 |:-:|:-:|
 | 😴 개발자 비상근무 | [java-oncall-6](https://github.com/takoyakimchi/java-oncall-6-takoyakimchi) |
@@ -26,7 +31,8 @@
 **진행 기간** 2024-02-13 ~ 2024-04-05
 
 - Java의 기본기를 다지고, 다른 사람이 읽기 좋은 코드를 작성하는 연습을 하는 과정입니다.
-- 페어 프로그래밍으로 미션을 진행하고 현업 백엔드 개발자에게 리뷰를 받으며 다양한 관점에서 학습할 수 있었습니다.
+- 페어 프로그래밍으로 미션을 진행하고 현업 백엔드 개발자에게 리뷰를 받았습니다.
+- 각 미션당 총 3명의 개발 스타일을 흡수하며 다양한 관점에서 학습할 수 있었습니다.
 
 ### 미션
 | 과정명 | Pull Request |
