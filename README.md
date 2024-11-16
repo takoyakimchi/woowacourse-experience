@@ -83,7 +83,7 @@
 **진행 기간** 2024-09-03 ~ 2024-11-01
 
 - 레벨1 ~ 레벨3 동안 사용했던 라이브러리와 프레임워크를 직접 구현해 보며 내부 구조를 이해하는 과정입니다.
-- 4단계 미션은 크루(교육생)들끼리 서로 리뷰를 작성하는 방식으로 진행됩니다.
+- 4단계 미션은 **교육생끼리 서로 리뷰**를 작성하는 방식으로 진행됩니다.
 
 ### 미션
 
@@ -99,3 +99,5 @@
 | | [2단계 Repo](https://github.com/takoyakimchi/java-jdbc/tree/step2) | [2단계 PR](https://github.com/woowacourse/java-jdbc/pull/729) | [2단계 리뷰](https://github.com/woowacourse/java-jdbc/pull/663) |
 | | [3단계 Repo](https://github.com/takoyakimchi/java-jdbc/tree/step3) | [3단계 PR](https://github.com/woowacourse/java-jdbc/pull/804) | [3단계 리뷰](https://github.com/woowacourse/java-jdbc/pull/718) |
 | | [4단계 Repo](https://github.com/takoyakimchi/java-jdbc/tree/step4) | [4단계 PR](https://github.com/woowacourse/java-jdbc/pull/892) | [4단계 리뷰](https://github.com/woowacourse/java-jdbc/pull/801) |
+| DB 복제와 캐시 | [1단계 Repo](https://github.com/takoyakimchi/java-coupon/tree/main) | [1단계 PR](https://github.com/woowacourse/java-coupon/pull/24) | [1단계 리뷰](https://github.com/woowacourse/java-coupon/pull/19) |
+| | [2단계 Repo](https://github.com/takoyakimchi/java-coupon/tree/step2) | [2단계 PR](https://github.com/woowacourse/java-coupon/pull/110) | [2단계 리뷰](https://github.com/woowacourse/java-coupon/pull/111) |
